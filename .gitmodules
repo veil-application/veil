@@ -1,0 +1,12 @@
+[submodule "veil-web"]
+	path = veil-web
+	url = https://github.com/veil-application/veil-web
+[submodule "veil-application"]
+	path = veil-application
+	url = https://github.com/veil-application/veil-application
+[submodule "veil-py"]
+	path = veil-py
+	url = https://github.com/veil-application/veil-py
+[submodule "veil-contracts"]
+	path = veil-contracts
+	url = https://github.com/veil-application/veil-contracts
